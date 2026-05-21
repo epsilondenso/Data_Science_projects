@@ -1,0 +1,93 @@
+feature,type,category
+ROA(C) before interest and depreciation before interest,FR,Profitability
+ROA(A) before interest and % after tax,FR,Profitability
+ROA(B) before interest and depreciation after tax,FR,Profitability
+Operating Gross Margin,FR,Profitability
+Realized Sales Gross Margin,FR,Profitability
+Operating Profit Rate,FR,Profitability
+Pre-tax net Interest Rate,FR,Profitability
+After-tax net Interest Rate,FR,Profitability
+Non-industry income and expenditure/revenue,FR,Other Financial Ratio
+Continuous interest rate (after tax),FR,Profitability
+Operating Expense Rate,FR,Other Financial Ratio
+Research and development expense rate,FR,Other Financial Ratio
+Cash flow rate,FR,Cash Flow
+Interest-bearing debt interest rate,FR,Leverage/Solvency
+Tax rate (A),FR,Profitability
+Net Value Per Share (B),FR,Market/Valuation
+Net Value Per Share (A),FR,Market/Valuation
+Net Value Per Share (C),FR,Market/Valuation
+Persistent EPS in the Last Four Seasons,FR,Profitability
+Cash Flow Per Share,FR,Cash Flow
+Revenue Per Share (Yuan ¥),FR,Market/Valuation
+Operating Profit Per Share (Yuan ¥),FR,Profitability
+Per Share Net profit before tax (Yuan ¥),FR,Profitability
+Realized Sales Gross Profit Growth Rate,FR,Profitability
+Operating Profit Growth Rate,FR,Profitability
+After-tax Net Profit Growth Rate,FR,Profitability
+Regular Net Profit Growth Rate,FR,Profitability
+Continuous Net Profit Growth Rate,FR,Profitability
+Total Asset Growth Rate,FR,Growth
+Net Value Growth Rate,FR,Growth
+Total Asset Return Growth Rate Ratio,FR,Profitability
+Cash Reinvestment %,FR,Cash Flow
+Current Ratio,FR,Liquidity
+Quick Ratio,FR,Liquidity
+Interest Expense Ratio,FR,Leverage/Solvency
+Total debt/Total net worth,FR,Leverage/Solvency
+Debt ratio %,FR,Leverage/Solvency
+Net worth/Assets,FR,Other Financial Ratio
+Long-term fund suitability ratio (A),FR,Other Financial Ratio
+Borrowing dependency,FR,Leverage/Solvency
+Contingent liabilities/Net worth,FR,Leverage/Solvency
+Operating profit/Paid-in capital,FR,Profitability
+Net profit before tax/Paid-in capital,FR,Profitability
+Inventory and accounts receivable/Net value,FR,Other Financial Ratio
+Total Asset Turnover,FR,Efficiency/Activity
+Accounts Receivable Turnover,FR,Efficiency/Activity
+Average Collection Days,FR,Efficiency/Activity
+Inventory Turnover Rate (times),FR,Efficiency/Activity
+Fixed Assets Turnover Frequency,FR,Efficiency/Activity
+Net Worth Turnover Rate (times),FR,Efficiency/Activity
+Revenue per person,FR,Efficiency/Activity
+Operating profit per person,FR,Profitability
+Allocation rate per person,FR,Efficiency/Activity
+Working Capital to Total Assets,FR,Liquidity
+Quick Assets/Total Assets,FR,Other Financial Ratio
+Current Assets/Total Assets,FR,Other Financial Ratio
+Cash/Total Assets,FR,Other Financial Ratio
+Quick Assets/Current Liability,FR,Liquidity
+Cash/Current Liability,FR,Liquidity
+Current Liability to Assets,FR,Liquidity
+Operating Funds to Liability,FR,Liquidity
+Inventory/Working Capital,FR,Liquidity
+Inventory/Current Liability,FR,Liquidity
+Current Liabilities/Liability,FR,Liquidity
+Working Capital/Equity,FR,Liquidity
+Current Liabilities/Equity,FR,Liquidity
+Long-term Liability to Current Assets,FR,Leverage/Solvency
+Retained Earnings to Total Assets,FR,Other Financial Ratio
+Total income/Total expense,FR,Profitability
+Total expense/Assets,FR,Other Financial Ratio
+Current Asset Turnover Rate,FR,Efficiency/Activity
+Quick Asset Turnover Rate,FR,Efficiency/Activity
+Working capitcal Turnover Rate,FR,Efficiency/Activity
+Cash Turnover Rate,FR,Efficiency/Activity
+Cash Flow to Sales,FR,Cash Flow
+Fixed Assets to Assets,FR,Other Financial Ratio
+Equity to Long-term Liability,FR,Leverage/Solvency
+Cash Flow to Total Assets,FR,Cash Flow
+Cash Flow to Liability,FR,Leverage/Solvency
+CFO to Assets,FR,Cash Flow
+Cash Flow to Equity,FR,Cash Flow
+Current Liability to Current Assets,FR,Liquidity
+Liability-Assets Flag,FR,Leverage/Solvency
+Net Income to Total Assets,FR,Profitability
+Total assets to GNP price,FR,Market/Valuation
+No-credit Interval,FR,Liquidity
+Gross Profit to Sales,FR,Profitability
+Net Income to Stockholder's Equity,FR,Profitability
+Liability to Equity,FR,Leverage/Solvency
+Degree of Financial Leverage (DFL),FR,Leverage/Solvency
+Interest Coverage Ratio (Interest expense to EBIT),FR,Leverage/Solvency
+Equity to Liability,FR,Leverage/Solvency

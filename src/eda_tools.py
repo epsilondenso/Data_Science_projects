@@ -8,7 +8,7 @@ def save_features_names(df: pd.DataFrame, path: str) -> None:
         for feature in df.columns:
             features_txt.write(f"{feature}\n")
 
-def DCC_matrix(M: np.array, Round = 2, **kwargs) -> np.array:
+def dcc_matrix(M: np.array, Round = 2, **kwargs) -> np.array:
   """
   Toma una matriz con N renglones, devuelve una matriz
   NxN con los DCC (Distance Correlation Coeficient)
