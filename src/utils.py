@@ -15,3 +15,7 @@ def get_subplt_dim(n: int = 100) -> tuple:
         rows = fac_exp[0]**(fac_exp[1] - 1)
         cols = fac_exp[0]
     return (rows, cols)
+
+metrics_eval= {"accuracy": [], "recall": [], "precision": [], "f1": []}
+roc_eval = {"fpr": [], "tpr": [], "thresholds": []}
+prc_eval = {"precision": [], "recall": [], "thresholds": []}
