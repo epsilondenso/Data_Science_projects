@@ -1,4 +1,6 @@
 from sympy import factorint
+import copy
+
 color1, color0 = ("#fb2e01", "#6fcb9f")
 
 def get_subplt_dim(n: int = 100) -> tuple:
@@ -20,3 +22,10 @@ def get_subplt_dim(n: int = 100) -> tuple:
 metrics_eval= {"accuracy": [], "recall": [], "precision": [], "f1": []}
 roc_eval = {"fpr": [], "tpr": [], "thresholds": []}
 prc_eval = {"precision": [], "recall": [], "thresholds": []}
+
+def copy_dicts(orig_dicts: list[dict] = [metrics_eval, roc_eval, prc_eval]) -> tuple[dict]:
+    """
+    Creates deep copies of a list of dictionaries, returns the copies as a tuple.
+    """
+    copies = [copy.deepcopy(orig_dict) for orig_dict in orig_dicts]
+    return tuple(copies)
