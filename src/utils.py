@@ -1,5 +1,6 @@
 from sympy import factorint
 color1, color0 = ("#fb2e01", "#6fcb9f")
+
 def get_subplt_dim(n: int = 100) -> tuple:
     factors = factorint(n)
     d_1 = 1
